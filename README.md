@@ -1,7 +1,7 @@
 # Colour_Extraction
 It is about extracting colours from css file by importing it into the javascript code.
 
-Certainly! Here's a basic outline for the README file in your GitHub repository:
+Certainly! Here's a basic outline for this GitHub repository:
 
 ---
 
